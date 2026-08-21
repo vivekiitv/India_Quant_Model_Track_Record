@@ -17,4 +17,4 @@ revision is sealed as a sibling and noted here. Gaps (a session sealed late) are
 - The historical book-of-record was materialized by a daily walk engine reconciled against the
   measurement backtest to machine epsilon (max per-cell divergence 0.0) before sealing.
 - **Live paper walk begins**: Rs 10 crore flat cash at 2026-08-21; first forward session 2026-08-24.
-- Wayback captures of the repo and profile at genesis: {WAYBACK_URLS}.
+- Wayback captures of the repo and profile at genesis: profile https://web.archive.org/web/20260821082853/https://github.com/vivekiitv ; repo https://web.archive.org/web/20260821082932/https://github.com/vivekiitv/India_Quant_Model_Track_Record ; commits https://web.archive.org/web/20260821082959/https://github.com/vivekiitv/India_Quant_Model_Track_Record/commits/main.
